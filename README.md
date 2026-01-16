@@ -1,4 +1,4 @@
-A set of API / CLI to  with a remote [amaru](https://github.com/pragma-org/amaru) node.
+A set of API / CLI to interact with a remote [amaru](https://github.com/pragma-org/amaru) node.
 Currently allows to track OTEL traces (over OTLP/gRPC) and metrics (over OTLP/HTTP).
 
 ```shell
